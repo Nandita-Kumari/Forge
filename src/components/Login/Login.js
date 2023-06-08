@@ -27,7 +27,7 @@ function Login() {
     <div className="login">
       <div className="login_container">
         <img
-          src="https://a.slack-edge.com/bv1-8/slack_logo-ebd02d1.svg"
+          src="https://play-lh.googleusercontent.com/mzJpTCsTW_FuR6YqOPaLHrSEVCSJuXzCljdxnCKhVZMcu6EESZBQTCHxMh8slVtnKqo"
           alt="slack-logo"
         />
         <h1>Sign in to Slack</h1>
