@@ -30,7 +30,7 @@ function Login() {
           src="https://play-lh.googleusercontent.com/mzJpTCsTW_FuR6YqOPaLHrSEVCSJuXzCljdxnCKhVZMcu6EESZBQTCHxMh8slVtnKqo"
           alt="slack-logo"
         />
-        <h1>Sign in to Slack</h1>
+        <h1>Sign in to Forge</h1>
         <p>slack.com</p>
         <Button variant="outlined" color="primary" onClick={signIn}>
           Sign In with Google
